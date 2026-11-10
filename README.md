@@ -1,2 +1,2 @@
 # Hello-world
-world is beautiful
+The world is beautiful
